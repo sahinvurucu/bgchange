@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    text-align: center;
+    background-color:rgba(77, 4, 40, 0.897);
+}
+
+header { background-color: rgb(255, 255, 255);
+
+}
+.top {
+    color: rgb(7, 5, 5);
+}
+
+p { 
+font-size: 150%;
+color: white;
+}
+
+button { 
+    color: #000;
+}
